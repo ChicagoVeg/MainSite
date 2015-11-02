@@ -1,7 +1,7 @@
 #page-wrap {
      margin-top: 0px;
      margin-right: 50px;
-     margin-bottom: 50px;
+     margin-bottom: 800px;
      margin-left: 50px;
      background-color:#EFEFEF;
 }
@@ -47,8 +47,4 @@
   background-color: #7A726B;
   margin: 1px;
   height: 78px;
-}
-
-.jumbotron>img {
-  ;
 }
