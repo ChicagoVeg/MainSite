@@ -1,9 +1,18 @@
 #page-wrap {
-     margin-top: 0px;
+     margin-top: 25px;
      margin-right: 50px;
      margin-bottom: 800px;
      margin-left: 50px;
      background-color:#EFEFEF;
+     padding: 25px;
+     min-height: 1200px;
+}
+
+#inner-container {
+  background-color: brown;
+  margin: 0px;
+  padding: -25px;
+  min-height: 900px;
 }
 
 #tlogo {
@@ -11,9 +20,15 @@
   padding: 10px;
 }
 
-.main {
+#main {
   background-color: white;
-  margin: 50px;
+  margin-top: -768px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+  padding: 15px;
+  min-height: 500px;
+
   /* Safari 3-4, iOS 1-3.2, Android 1.6- */
   -webkit-border-radius: 12px; 
 
@@ -47,4 +62,40 @@
   background-color: #7A726B;
   margin: 1px;
   height: 78px;
+}
+
+.box1 {
+  margin-top: 475px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  background-color: #EFEFEF;
+  padding: 15px;
+  width: 140px;
+  height: 130px;
+  border-radius: 20px;
+}
+
+.box2 {
+  margin-top: 475px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  background-color: #EFEFEF;
+  padding: 15px;
+  width: 140px;
+  height: 130px;
+  border-radius: 20px;
+}
+
+.box3 {
+  margin-top: 475px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  background-color: #EFEFEF;
+  padding: 15px;
+  width: 140px;
+  height: 130px;
+  border-radius: 20px;
 }
